@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 - 🌱 Currently learning: Python
-- 💻 Interested in: Software Development
+- 💻 Interested in: Software Development , Data Analysis
 - 📫 Contact: sinamonfaredasl@gmail.com
 
 ---

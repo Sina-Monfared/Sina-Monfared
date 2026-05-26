@@ -23,7 +23,7 @@
 
 ### 🛠️ Languages & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,ubuntu,c,cpp,discord" />
 </p>
 
 ---

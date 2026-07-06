@@ -13,20 +13,20 @@
 
 ---
 
-### 🚀 About Me
+### About Me:
 - 🌱 Currently learning: Python
 - 💻 Interested in: Software Development , Data Analysis
 - 📫 Contact: sinamonfaredasl@gmail.com
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools:
 <p>
 <img src="https://skillicons.dev/icons?i=python,html,css,git,github,ubuntu,c,cpp,discord" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sina-Monfared&theme=tokyonight&bg_color=0D1117&color=00F7FF&line=00F7FF&point=00F7FF&hide_border=true&area=true)

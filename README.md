@@ -29,4 +29,4 @@
 
 ### 📊 GitHub Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Sina-Monfared&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sina-Monfared&theme=tokyonight&hide_border=true&area=true)

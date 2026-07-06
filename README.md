@@ -29,4 +29,4 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sina-Monfared&theme=tokyonight&show_icons=true&hide_rank=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sina-Monfared&theme=tokyonight&cache_seconds=0)

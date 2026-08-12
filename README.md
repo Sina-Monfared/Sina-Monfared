@@ -26,14 +26,4 @@
 
 ### GitHub Stats:
 
-<div align="center">
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sina-Monfared&theme=tokyonight&bg_color=0D1117&color=00F7FF&line=00F7FF&point=00F7FF&hide_border=true&custom_title=My%20Contributions%20Graph" alt="Activity Graph"/>
-
-  <br>
-
-  <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sina-Monfared&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sina's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sina-Monfared&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sina-Monfared&theme=tokyonight&bg_color=0D1117&color=00F7FF&line=00F7FF&point=00F7FF&hide_border=true&custom_title=My%20Contributions%20Graph)

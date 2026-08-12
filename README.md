@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00f2fe,100:7f00ff&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sina Monfared Asl</h1>

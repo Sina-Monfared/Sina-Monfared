@@ -26,4 +26,4 @@
 
 ### GitHub Stats:
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sina-Monfared&theme=tokyonight&bg_color=0D1117&color=00F7FF&line=00F7FF&point=00F7FF&hide_border=true&custom_title=My%20Contributions%20Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sina-Monfared&theme=tokyonight&bg_color=0D1117&color=00F7FF&line=00F7FF&point=00F7FF&hide_border=true&custom_title=My%20Contributions%20Graph&t=1)

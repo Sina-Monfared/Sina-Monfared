@@ -19,7 +19,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,c,cpp,git,github,ubuntu,discord,vscode,microsoftsqlserver" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,c,cpp,git,github,ubuntu,discord,vscode" />
 </p>
 
 ---
